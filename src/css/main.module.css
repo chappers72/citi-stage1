@@ -1,0 +1,29 @@
+.centred{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.btnProgress{
+    background-color: black;
+    color: white;
+}
+.complete{
+    color: green
+}
+.defaultStatus{
+    color: blue
+}
+.cardUpdate{
+    border: 1px solid lightgrey;
+    margin: 1em;
+}
+.container{
+    padding: 1em
+}
+.hidden{
+    display: none;
+}
+.block{
+    display: block;
+}
